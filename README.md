@@ -1,1 +1,1 @@
-# c-programminf-assignment
+# c-programming-assignment
