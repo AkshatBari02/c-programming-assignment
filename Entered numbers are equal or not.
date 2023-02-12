@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+void main() {
+    int a,b;
+    printf("Enter first number:");
+    scanf("%d",&a);
+    printf("Enter second number:");
+    scanf("%d",&b);
+    if(a>b || a<b){
+        printf("Enterd numbers are not equal.");
+    }else{
+        printf("Entered numbers are equal.");
+        }    
+    
+}
